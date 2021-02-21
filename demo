@@ -1,1 +1,7 @@
 This is a demo
+
+git commit -m "message" <filename>
+
+// commit 
+
+git commit <filename>
